@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestSortowania/1.0.0": {
+        "dependencies": {
+          "QuickSort": "1.0.0"
+        },
+        "runtime": {
+          "TestSortowania.dll": {}
+        }
+      },
+      "QuickSort/1.0.0": {
+        "runtime": {
+          "QuickSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestSortowania/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
